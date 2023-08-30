@@ -1,0 +1,15 @@
+h1{
+    font-size: 40px;
+    color:rgb(96, 72, 58)
+}
+body{
+background-image: url("./Travis\ Scott\ -\ Utopia.png");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+}
+img{
+    height: 400px; width: 400px;
+    position: relative;
+}
